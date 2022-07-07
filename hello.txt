@@ -12,5 +12,10 @@ hello zcs!hello git!
 hello zcs!hello git!
 hello zcs!hello git!
 hello zcs!hello git!
+<<<<<<< HEAD
 hello zcs!hello git! master test
 hello zcs!hello git!
+=======
+hello zcs!hello git!
+hello zcs!hello git! hot-fix test
+>>>>>>> master
